@@ -2,7 +2,7 @@
     <div class="px-4 py-5 my-5 text-center">
         <h1 class="display-5 fw-bold mt-5">Aplikasi Lelang Online (Lelangku)</h1>
         <div class="col-lg-6 mx-auto">
-            <p class="lead mb-4 mt-3">DIbuat untuk memenuhi program UK tahun 2023 Keahlian Pengembangan Perangkat Lunak dan Gim (PPLG), Aplikasi Lelangku berguna bagi masyarakat yang ingin me-lelang sebuah barang secara online.</p>
+            <p class="lead mb-4 mt-3">Dibuat untuk memenuhi program UK tahun 2023 Keahlian Pengembangan Perangkat Lunak dan Gim (PPLG), Aplikasi Lelangku berguna bagi masyarakat yang ingin me-lelang sebuah barang secara online.</p>
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mt-3">
                 <a href="#lelang" class="btn btn-dark btn-lg px-4 gap-3">Selengkapnya</a>
             </div>

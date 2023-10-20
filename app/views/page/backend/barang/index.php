@@ -11,7 +11,7 @@
             <div class="card-header">
                 <h4 class="card-title">
                     <?= $data['title'] . ' (' . count($data['dataBarang']) . ')' ?>
-                    <a href="<?= BASE_URL ?>/barang/create" class="btn btn-primary">Tambah <i data-feather="plus"></i></a>
+                    <a href="<?= BASE_URL ?>/barang/create" class="btn btn-dark">Tambah <i data-feather="plus"></i></a>
                 </h4>
             </div>
             <div class="card-body">
