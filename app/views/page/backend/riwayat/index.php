@@ -11,7 +11,7 @@
             <div class="card-header">
                 <h4 class="card-title">
                     <?= $data['title'] . ' (' . count($data['history']) . ')' ?>
-                    <a href="<?= BASE_URL ?>/#lelang" class="btn btn-primary">Katalog Lelang</a>
+                    <a href="<?= BASE_URL ?>/#lelang" class="btn btn-dark">Katalog Lelang</a>
                 </h4>
             </div>
             <div class="card-body">

@@ -43,7 +43,7 @@
         <?php } else { ?>
             <h3>Halo, Selamat Datang!</h1>
                 <hr>
-                <a href="<?= BASE_URL ?>/#lelang" class="btn btn-primary">Katalog Lelang</a>
+                <a href="<?= BASE_URL ?>/#lelang" class="btn btn-dark">Katalog Lelang</a>
             <?php } ?>
         </div>
     </section>
